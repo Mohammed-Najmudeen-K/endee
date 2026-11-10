@@ -1,0 +1,14 @@
+[
+  {"question": "What does the M parameter control in HNSW?", "source": "1603.09320", "keywords": ["established connections"]},
+  {"question": "How are the layers assigned to elements in HNSW?", "source": "1603.09320", "keywords": ["exponentially decaying"]},
+  {"question": "Which heuristic does HNSW use to select neighbors?", "source": "1603.09320", "keywords": ["heuristic"]},
+  {"question": "Which retriever does RAG use?", "source": "2005.11401", "keywords": ["DPR", "Dense Passage Retrieval"]},
+  {"question": "What generator model does RAG use?", "source": "2005.11401", "keywords": ["BART"]},
+  {"question": "What is the difference between RAG-Sequence and RAG-Token?", "source": "2005.11401", "keywords": ["RAG-Token"]},
+  {"question": "How long does finding the most similar pair take with BERT?", "source": "1908.10084", "keywords": ["65 hours"]},
+  {"question": "How does SBERT pool token embeddings into a sentence vector?", "source": "1908.10084", "keywords": ["pooling"]},
+  {"question": "How does DPR train its encoders with negatives?", "source": "2004.04906", "keywords": ["in-batch"]},
+  {"question": "Which similarity function does DPR use?", "source": "2004.04906", "keywords": ["dot product"]},
+  {"question": "What attention function does the Transformer use?", "source": "1706.03762", "keywords": ["Scaled Dot-Product"]},
+  {"question": "How many parallel attention heads does the base Transformer use?", "source": "1706.03762", "keywords": ["parallel attention layers"]}
+]
